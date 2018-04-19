@@ -1,0 +1,41 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="ProjectTest:jar">
+    <output-path>$PROJECT_DIR$/../../../../../Dev</output-path>
+    <root id="archive" name="ProjectTest.jar">
+      <element id="module-output" name="ProjectTest" />
+      <element id="extracted-dir" path="/media/paragoumba/EE90A35C90A329D3/Users/parag/Documents/Dev/Dev-Java/API/Graphic/LWJGL/lwjgl-stable-2018-03-20-custom/library/lwjgl.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="/media/paragoumba/EE90A35C90A329D3/Users/parag/Documents/Dev/Dev-Java/API/Graphic/LWJGL/lwjgl-stable-2018-03-20-custom/library/lwjgl-egl.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="/media/paragoumba/EE90A35C90A329D3/Users/parag/Documents/Dev/Dev-Java/API/Graphic/LWJGL/lwjgl-stable-2018-03-20-custom/library/lwjgl-lz4.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="/media/paragoumba/EE90A35C90A329D3/Users/parag/Documents/Dev/Dev-Java/API/Graphic/LWJGL/lwjgl-stable-2018-03-20-custom/library/lwjgl-nfd.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="/media/paragoumba/EE90A35C90A329D3/Users/parag/Documents/Dev/Dev-Java/API/Graphic/LWJGL/lwjgl-stable-2018-03-20-custom/library/lwjgl-ovr.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="/media/paragoumba/EE90A35C90A329D3/Users/parag/Documents/Dev/Dev-Java/API/Graphic/LWJGL/lwjgl-stable-2018-03-20-custom/library/lwjgl-par.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="/media/paragoumba/EE90A35C90A329D3/Users/parag/Documents/Dev/Dev-Java/API/Graphic/LWJGL/lwjgl-stable-2018-03-20-custom/library/lwjgl-sse.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="/media/paragoumba/EE90A35C90A329D3/Users/parag/Documents/Dev/Dev-Java/API/Graphic/LWJGL/lwjgl-stable-2018-03-20-custom/library/lwjgl-stb.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="/media/paragoumba/EE90A35C90A329D3/Users/parag/Documents/Dev/Dev-Java/API/Graphic/LWJGL/lwjgl-stable-2018-03-20-custom/library/joml-1.9.8.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="/media/paragoumba/EE90A35C90A329D3/Users/parag/Documents/Dev/Dev-Java/API/Graphic/LWJGL/lwjgl-stable-2018-03-20-custom/library/lwjgl-bgfx.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="/media/paragoumba/EE90A35C90A329D3/Users/parag/Documents/Dev/Dev-Java/API/Graphic/LWJGL/lwjgl-stable-2018-03-20-custom/library/lwjgl-glfw.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="/media/paragoumba/EE90A35C90A329D3/Users/parag/Documents/Dev/Dev-Java/API/Graphic/LWJGL/lwjgl-stable-2018-03-20-custom/library/lwjgl-jawt.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="/media/paragoumba/EE90A35C90A329D3/Users/parag/Documents/Dev/Dev-Java/API/Graphic/LWJGL/lwjgl-stable-2018-03-20-custom/library/lwjgl-lmdb.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="/media/paragoumba/EE90A35C90A329D3/Users/parag/Documents/Dev/Dev-Java/API/Graphic/LWJGL/lwjgl-stable-2018-03-20-custom/library/lwjgl-odbc.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="/media/paragoumba/EE90A35C90A329D3/Users/parag/Documents/Dev/Dev-Java/API/Graphic/LWJGL/lwjgl-stable-2018-03-20-custom/library/lwjgl-yoga.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="/media/paragoumba/EE90A35C90A329D3/Users/parag/Documents/Dev/Dev-Java/API/Graphic/LWJGL/lwjgl-stable-2018-03-20-custom/library/lwjgl-zstd.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="/media/paragoumba/EE90A35C90A329D3/Users/parag/Documents/Dev/Dev-Java/API/Graphic/LWJGL/lwjgl-stable-2018-03-20-custom/library/lwjgl-assimp.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="/media/paragoumba/EE90A35C90A329D3/Users/parag/Documents/Dev/Dev-Java/API/Graphic/LWJGL/lwjgl-stable-2018-03-20-custom/library/lwjgl-nanovg.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="/media/paragoumba/EE90A35C90A329D3/Users/parag/Documents/Dev/Dev-Java/API/Graphic/LWJGL/lwjgl-stable-2018-03-20-custom/library/lwjgl-openal.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="/media/paragoumba/EE90A35C90A329D3/Users/parag/Documents/Dev/Dev-Java/API/Graphic/LWJGL/lwjgl-stable-2018-03-20-custom/library/lwjgl-opencl.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="/media/paragoumba/EE90A35C90A329D3/Users/parag/Documents/Dev/Dev-Java/API/Graphic/LWJGL/lwjgl-stable-2018-03-20-custom/library/lwjgl-opengl.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="/media/paragoumba/EE90A35C90A329D3/Users/parag/Documents/Dev/Dev-Java/API/Graphic/LWJGL/lwjgl-stable-2018-03-20-custom/library/lwjgl-openvr.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="/media/paragoumba/EE90A35C90A329D3/Users/parag/Documents/Dev/Dev-Java/API/Graphic/LWJGL/lwjgl-stable-2018-03-20-custom/library/lwjgl-tinyfd.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="/media/paragoumba/EE90A35C90A329D3/Users/parag/Documents/Dev/Dev-Java/API/Graphic/LWJGL/lwjgl-stable-2018-03-20-custom/library/lwjgl-tootle.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="/media/paragoumba/EE90A35C90A329D3/Users/parag/Documents/Dev/Dev-Java/API/Graphic/LWJGL/lwjgl-stable-2018-03-20-custom/library/lwjgl-vulkan.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="/media/paragoumba/EE90A35C90A329D3/Users/parag/Documents/Dev/Dev-Java/API/Graphic/LWJGL/lwjgl-stable-2018-03-20-custom/library/lwjgl-xxhash.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="/media/paragoumba/EE90A35C90A329D3/Users/parag/Documents/Dev/Dev-Java/API/Graphic/LWJGL/lwjgl-stable-2018-03-20-custom/library/lwjgl-nuklear.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="/media/paragoumba/EE90A35C90A329D3/Users/parag/Documents/Dev/Dev-Java/API/Graphic/LWJGL/lwjgl-stable-2018-03-20-custom/library/lwjgl-tinyexr.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="/media/paragoumba/EE90A35C90A329D3/Users/parag/Documents/Dev/Dev-Java/API/Graphic/LWJGL/lwjgl-stable-2018-03-20-custom/library/lwjgl-jemalloc.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="/media/paragoumba/EE90A35C90A329D3/Users/parag/Documents/Dev/Dev-Java/API/Graphic/LWJGL/lwjgl-stable-2018-03-20-custom/library/lwjgl-opengles.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="/media/paragoumba/EE90A35C90A329D3/Users/parag/Documents/Dev/Dev-Java/API/Graphic/LWJGL/lwjgl-stable-2018-03-20-custom/library/lwjgl-remotery.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="/media/paragoumba/EE90A35C90A329D3/Users/parag/Documents/Dev/Dev-Java/API/Graphic/LWJGL/lwjgl-stable-2018-03-20-custom/library/lwjgl-rpmalloc.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../API/Media/Pictures/PNGDecoder.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
